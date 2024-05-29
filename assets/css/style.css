@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.3;
+}
+.container{
+    width: 80px;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+    background-color: antiquewhite;
+    padding: 10px 0;
+}
+header h1 {
+    text-align: left;
+    margin-bottom: 10px;
+    color: black;
+}
+header menu{
+    margin-right: 10px;
+    color: black;
+}
+main{
+    padding: 20px 0;
+}
+section{
+    margin-bottom: 20px;
+}
+section h2{
+    margin-bottom: 20px;
+}
+.Our Mission {
+    background-origin: content-box;
+    margin-top: 15px;
+    text-align: left;
+    background-color:cadetblue;
+}
+.button1{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.The Future is Here{
+    margin-right: 15px;
+    text-align: right;
+}
+.buttonf{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.buttont{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.buttoni{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.buttony{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.Urban Planning{
+    background-origin: content-box;
+    margin-left: 15px;
+    text-align: left;
+}
+.Interior Design{
+    background-origin: content-box;
+    margin-right: 15px;
+    text-align: right;
+}
+.Landscape design{
+    background-origin: content-box;
+    margin-left: 15px;
+    text-align:end;
+}
+.Science and Technology{
+    background-origin: content-box;
+    margin-right: 15px;
+    text-align: end;
+}
+.Architectual Agency{
+    background-origin: content-box;
+    margin-top: 15px;
+    text-align: center;
+}
+.Buildings{
+    background-origin: content-box;
+    margin-left: 15px;
+    text-align: left;
+    background-color:cadetblue;
+}
+.Planning{
+    background-origin: content-box;
+    margin-top: 15px;
+    text-align: center;
+    background-color:cadetblue;
+}
+.Our Projects{
+    background-origin: content-box;
+    margin-right: 15px;
+    text-align: right;
+    background-color:cadetblue;
+}
+.Images from Freepik{
+    background-origin: content-box;
+    margin-end: 15px;
+    text-align: end;
+    background-color: antiquewhite;
+}
+.About Company{
+        background-origin: content-box;
+        margin-right: 15px;
+        text-align: right;
+        background-color:antiquewhite
+}
+.button3{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.Our Team{
+    margin-right: 15px;
+    text-align: right;
+    background-color:cadetblue;
+}
+.button4{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.Building Expertise{
+    background-origin: content-box;
+        margin-right: 15px;
+        text-align: right;
+        background-color:cadetblue;
+}
+.button5{
+    font-size: 16px;
+    line-height: 16px;
+    padding: 6px;
+    text-decoration: none;
+    text-transform: none;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    padding: 5px;
+    background-color: cadetblue;
+}
